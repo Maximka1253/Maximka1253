@@ -24,17 +24,12 @@ Python • Git • GitHub • HTML • CSS • JavaScript
 
 ## 📊 GitHub Stats
 
+
+
 ```md
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximka1253&show_icons=true&theme=tokyonight)
-```
 
----
-
-## 🔥 Streak Stats
-
-```md
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maximka1253&theme=tokyonight)
-```
 
 ---
 
