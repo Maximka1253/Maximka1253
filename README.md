@@ -31,8 +31,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maximka1253&theme=tokyo-night)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximka1253&layout=compact&theme=tokyonight)
-
 ## 🌐 Контакты
 
 * GitHub: https://github.com/Maximka1253
