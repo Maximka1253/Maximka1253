@@ -24,9 +24,6 @@ Python • Git • GitHub • HTML • CSS • JavaScript
 
 ## 📊 GitHub Stats
 
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximka1253&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maximka1253&theme=tokyonight)
@@ -34,12 +31,6 @@ Python • Git • GitHub • HTML • CSS • JavaScript
 ## 🌐 Контакты
 
 * GitHub: https://github.com/Maximka1253
-* Telegram: @maximka1232
-
----
-
-## ✨ Quote
-
-> "Code. Learn. Build. Repeat."
+* Telegram: https://t.me/maximka1232
 
 ---
