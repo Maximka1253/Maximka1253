@@ -14,13 +14,11 @@
 
 ---
 
-## 🛠️ Технологии
+## 🛠️ Стек технологий
 
-```txt
-Python • Git • GitHub • HTML • CSS • JavaScript
-```
+![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,html,css,js)
 
----
+
 
 ## 📊 GitHub Stats
 
