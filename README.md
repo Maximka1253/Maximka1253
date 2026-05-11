@@ -26,16 +26,14 @@ Python • Git • GitHub • HTML • CSS • JavaScript
 
 
 
-```md
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximka1253&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maximka1253&theme=tokyonight)
 
----
-
 ## 🌐 Контакты
 
-* GitHub: [https://github.com/ТВОЙ_USERNAME](https://github.com/Maximka1253)
+* GitHub: https://github.com/Maximka1253
 * Telegram: @maximka1232
 
 ---
