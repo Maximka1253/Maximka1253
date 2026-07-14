@@ -1,39 +1,20 @@
-# Привет 👋
+# Привет, я Maximka1253
 
-Меня зовут **Maximka1253**.
-Я начинающий разработчик и изучаю программирование, GitHub, нейросети и современные технологии.
+Начинающий разработчик, который изучает AI и Python. Мне интересно разбираться, как устроены современные модели, и превращать это знание в удобные инструменты.
 
----
+Сейчас развиваюсь в Python и работаю с Linux, Git и GitHub. Ищу практические задачи, на которых можно писать более чистый код, лучше понимать архитектуру и доводить идеи до результата.
 
-## 🚀 О себе
+## Проект
 
-* 🌱 Сейчас изучаю: `Python`, `Git`, `GitHub`
-* 💻 Интересуюсь: `AI`, `Web Development`, `Automation`
-* 📚 Учусь и делаю свои проекты
-* ⚡ Цель: стать сильным developer
+- [gpt4free-tui-cli](https://github.com/atnott/gpt4free-tui-cli) — участвую в разработке CLI и TUI для общения с разными моделями через фреймворк g4f.
 
----
+## Интересы
 
-## 🛠️ Стек технологий
+- AI и LLM
+- Python-разработка
+- Автоматизация и инструменты для разработчиков
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,html,css,js)
+## Контакты
 
-
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximka1253&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Maximka1253&theme=tokyonight)
-
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maximka1253&theme=tokyo-night)
-
-## 🌐 Контакты
-
-* GitHub: https://github.com/Maximka1253
-* Telegram: https://t.me/maximka1232
-
----
+- GitHub: [@Maximka1253](https://github.com/Maximka1253)
+- Telegram: [@maximka1232](https://t.me/maximka1232)
